@@ -1,0 +1,15 @@
+/Users/gboneurban/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.csproj.AssemblyReference.cache
+/Users/gboneurban/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gboneurban/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.AssemblyInfoInputs.cache
+/Users/gboneurban/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.AssemblyInfo.cs
+/Users/gboneurban/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.csproj.CoreCompileInputs.cache
+/Users/gboneurban/Desktop/Repos/Operators-Exercise/OperatorExercise/bin/Debug/net6.0/OperatorExercise
+/Users/gboneurban/Desktop/Repos/Operators-Exercise/OperatorExercise/bin/Debug/net6.0/OperatorExercise.deps.json
+/Users/gboneurban/Desktop/Repos/Operators-Exercise/OperatorExercise/bin/Debug/net6.0/OperatorExercise.runtimeconfig.json
+/Users/gboneurban/Desktop/Repos/Operators-Exercise/OperatorExercise/bin/Debug/net6.0/OperatorExercise.dll
+/Users/gboneurban/Desktop/Repos/Operators-Exercise/OperatorExercise/bin/Debug/net6.0/OperatorExercise.pdb
+/Users/gboneurban/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.dll
+/Users/gboneurban/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/refint/OperatorExercise.dll
+/Users/gboneurban/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.pdb
+/Users/gboneurban/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.genruntimeconfig.cache
+/Users/gboneurban/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/ref/OperatorExercise.dll
